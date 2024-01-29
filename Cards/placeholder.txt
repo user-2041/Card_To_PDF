@@ -1,0 +1,1 @@
+Fill the “Cards” directory with images of the cards that you intend to use. See the README.md file for more info.
